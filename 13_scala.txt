@@ -11,6 +11,8 @@ object OddEvenPositiveNegative {
  }
 }
 
+spark-shell
+
 :load OddEvenPositiveNegative 
 
 OddEvenPositiveNegative.main(array())
